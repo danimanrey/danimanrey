@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Daniel Manso
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me mansodani375@gmail.com
+# 👋 Hi, I’m Daniel Manso
+## 👀 I’m interested in learning
+## 🌱 I’m currently learning Data Analysis
+## 📫 How to reach me mansodani375@gmail.com
 
 <!---
 danimanrey/danimanrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
