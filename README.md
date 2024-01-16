@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel Manso
 
-## 🌱 I’m currently learning Data Analysis
+## 🌱 Data Analysis
 📫 How to reach me mansodani375@gmail.com
 
 <!---
